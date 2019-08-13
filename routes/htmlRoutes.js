@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable prettier/prettier */
 var db = require("../models");
 
 module.exports = function(app) {
